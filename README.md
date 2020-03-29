@@ -1,2 +1,2 @@
 # Hello-world
-discovering github
+discovering Github
